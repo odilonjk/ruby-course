@@ -1,1 +1,1 @@
-Codeducation Ruby Course
+Codecademy Ruby Course
